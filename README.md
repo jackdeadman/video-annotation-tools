@@ -5,7 +5,7 @@ Annotation tools developed for the paper "Simulating realistically-spatialised s
 - Face annotator (Coming soon)
 
 ## Citation
-If you find this tool useful for your research please cite the following paper:
+If you find these tools useful for your research please cite the following paper:
 ```
 @inproceedings{Deadman-Barker_2020,  
   author = {Deadman, Jack and Barker, Jon}  
