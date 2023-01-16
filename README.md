@@ -2,7 +2,7 @@
 Annotation tools developed for the paper "Simulating realistically-spatialised simultaneous speech using video-driven speaker detection and the CHiME-5 dataset".
 
 - [Tracking annotator](https://github.com/jackdeadman/tracking-annotator)
-- Face annotator (Coming soon)
+- [Face annotator](https://github.com/jackdeadman/video-annotator)
 
 ## Citation
 If you find these tools useful for your research please cite the following paper:
